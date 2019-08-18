@@ -1,7 +1,11 @@
 {
     "name": "artem",
-    "displayName": "Artem",
-    "description": "",
+    "displayName": "Artem Theme",
+    "author": "Sujal Bolia <sujalbolia@gmail.com>",
+    "description": "A beautifully warm dual theme for Visual Studio Code",
+    "publisher": "ariuspys",
+    "license": "MIT",
+    "icon": "logo.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.37.0"
@@ -17,5 +21,9 @@
                 "path": "./themes/artem-color-theme.json"
             }
         ]
+    }
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ariuspys/artem-theme-vscode"
     }
 }
