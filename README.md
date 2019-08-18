@@ -14,9 +14,9 @@ Artem is a dark Visual Studio Code theme based on the popular [Horizon Theme](ht
 
 <p align="center">
   Preview HTML
-  <img alt="preview-1" src="https://i.ibb.co/6gFnsSp/html-rounded.png">
+  <img alt="preview-1" src="./preview_html.png">
   Preview - Python
-  <img alt="preview-2" src="https://i.ibb.co/ZcW7fcZ/python-rounded.png">
+  <img alt="preview-2" src="./preview_python.png">
 </p>
 
 ## License
