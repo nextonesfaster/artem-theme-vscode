@@ -1,0 +1,21 @@
+{
+    "name": "artem",
+    "displayName": "Artem",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Artem",
+                "uiTheme": "vs-dark",
+                "path": "./themes/artem-color-theme.json"
+            }
+        ]
+    }
+}
