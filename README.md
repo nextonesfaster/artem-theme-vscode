@@ -1,16 +1,20 @@
-# README
+<p align="center">
+  <a href="https://horizontheme.com/">
+    <img alt="artem banner" src="https://i.ibb.co/Cv3vV6y/Artem-Banner.png">
+  </a>
+</p>
 
-## This is the README for your extension "artem"
+---
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Artem is a dark Visual Studio Code theme based on the popular [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode). Artem combines Horizon's amazing UI with a different, brighter set of colors.  
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+---
 
-### For more information
+<p align="center">
+  <img alt="preview-1" src="https://i.ibb.co/ygDgjcW/html-rounded.png" width="90%">
+  <img alt="preview-2" src="https://i.ibb.co/Lk2b4CK/python-rounded.png" width="90%">
+</p>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## License
 
-**Enjoy!**
+[MIT](LICENSE) © [Jonathan Olaleye](https://github.com/jolaleye)
