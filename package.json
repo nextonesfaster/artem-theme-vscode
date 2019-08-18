@@ -21,7 +21,7 @@
                 "path": "./themes/artem-color-theme.json"
             }
         ]
-    }
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/ariuspys/artem-theme-vscode"
