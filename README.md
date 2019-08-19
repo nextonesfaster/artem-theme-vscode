@@ -13,15 +13,15 @@ Artem is a dark Visual Studio Code theme based on the popular [Horizon Theme](ht
 <p align="center">
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=Arius.artem">
-    <img alt="marketplace version" src="https://img.shields.io/visual-studio-marketplace/v/Arius.artem?maxAge=3600&style=for-the-badge&colorA=1C1E26&colorB=8cd7fa">
+    <img alt="marketplace version" src="https://img.shields.io/visual-studio-marketplace/v/Arius.artem?maxAge=3600&style=for-the-badge&colorA=1C1E26&colorB=77b6d4">
   </a>
   <!-- downloads -->
   <a href="https://marketplace.visualstudio.com/items?itemName=Arius.artem">
-    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/Arius.artem?maxAge=3600&style=for-the-badge&colorA=1C1E26&colorB=8cd7fa">
+    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/Arius.artem?maxAge=3600&style=for-the-badge&colorA=1C1E26&colorB=77b6d4">
   </a>
   <!-- rating -->
   <a href="https://marketplace.visualstudio.com/items?itemName=Arius.artem">
-    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/Arius.artem?maxAge=86400&style=for-the-badge&colorA=1C1E26&colorB=8cd7fa">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/Arius.artem?maxAge=86400&style=for-the-badge&colorA=1C1E26&colorB=77b6d4">
   </a>
 </p>
 
