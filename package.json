@@ -2,7 +2,7 @@
     "name": "artem",
     "displayName": "Artem Theme",
     "author": "Sujal Bolia <sujalbolia@gmail.com>",
-    "description": "A beautifully warm dual theme for Visual Studio Code",
+    "description": "A beautifully blended theme for Visual Studio Code",
     "publisher": "Arius",
     "license": "MIT",
     "icon": "logo.png",
@@ -13,6 +13,11 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "dark",
+        "horizon"
+      ],
     "contributes": {
         "themes": [
             {
@@ -25,5 +30,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/ariuspys/artem-theme-vscode"
+    },
+    "homepage": "https://github.com/ariuspys/artem-theme-vscode",
+    "bugs": {
+        "url": "https://github.com/ariuspys/artem-theme-vscode/issues"
     }
 }
