@@ -4,29 +4,31 @@ All notable changes to the "artem" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## 1.0.3  
 
-## [0.0.1] - 2019-08-19
+- Fixed CHANGELOG formatting  
 
-- Initial release
-
-## [0.0.2] - 2019-08-20
-
-- Updated README and LICENSE  
-
-## [1.0.0] - 2019-08-20
-
-- Various QoL improvements
-- Stable public build release
-
-## [1.0.1] - 2019-08-20
-
-- Marketplace improvements  
-- Updated README  
-
-## [1.0.2] - 2019-08-20
+## 1.0.2
 
 - Marketplace bug fixes  
 - Updated README
 - Added Conduct of Code  
 - Added Contributing guidelines  
+
+## 1.0.1
+
+- Marketplace improvements  
+- Updated README  
+
+## 1.0.0
+
+- Various QoL improvements
+- Stable public build release
+
+## 0.0.2
+
+- Updated README and LICENSE  
+
+## 0.0.1
+
+- Initial release
