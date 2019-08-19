@@ -10,13 +10,18 @@
     "engines": {
         "vscode": "^1.37.0"
     },
+    "galleryBanner": {
+        "color": "#F5FDFF",
+        "theme": "dark"
+      },
     "categories": [
         "Themes"
     ],
     "keywords": [
         "theme",
         "dark",
-        "horizon"
+        "horizon",
+        ""
     ],
     "contributes": {
         "themes": [
