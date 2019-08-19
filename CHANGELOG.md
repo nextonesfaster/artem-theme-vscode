@@ -13,3 +13,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.2] - 2019-08-20
 
 - Updated README and LICENSE  
+
+## [1.0.0] - 2019-08-20
+
+- Various QoL improvements
+- Stable public build release
