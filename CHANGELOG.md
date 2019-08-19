@@ -18,3 +18,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Various QoL improvements
 - Stable public build release
+
+## [1.0.1] - 2019-08-20
+
+- Marketplace improvements  
