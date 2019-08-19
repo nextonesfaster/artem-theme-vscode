@@ -22,3 +22,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.1] - 2019-08-20
 
 - Marketplace improvements  
+- Updated README  
+
+## [1.0.2] - 2019-08-20
+
+- Marketplace bug fixes  
+- Updated README
+- Added Conduct of Code  
+- Added Contributing guidelines  
