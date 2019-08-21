@@ -205,7 +205,8 @@
 		{
 			"scope": [
 				"support.constant",
-				"storage.type.core"
+				"storage.type.core",
+				"meta.attribute.rust"
 			],
 			"settings": {
 				"foreground": "#f79149",
@@ -308,6 +309,7 @@
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
 				"string",
+				"string.quoted",
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",
