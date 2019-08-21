@@ -215,7 +215,6 @@
 		{
 			"name": "Operator",
 			"scope": [
-				"punctuation",
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
