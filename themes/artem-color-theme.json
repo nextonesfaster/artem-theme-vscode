@@ -182,6 +182,15 @@
 			}
 		},
 		{
+			"name": "Special Storage Types -- Rust",
+			"scope": [
+				"storage.modifier.dyn.rust"
+			],
+			"settings": {
+				"foreground": "#e1fbff",
+			}
+		},
+		{
 			"name": "Keyword, Storage",
 			"scope": [
 				"keyword",
@@ -199,13 +208,26 @@
 				"keyword.operator",
 			],
 			"settings": {
-				"foreground": "#ebebeb"
+				"foreground": "#e382fd"
+			}
+		},
+		{
+			"name": "Special Keyword Operators",
+			"scope": [
+				"keyword.operator.sigil",
+				"keyword.operator.misc"
+			],
+			"settings": {
+				"foreground": "#ffed88",
+				// "fontStyle": "bold"
 			}
 		},
 		{
 			"scope": [
 				"support.constant",
 				"storage.type.core",
+				// highlight String in Rust
+				"storage.class.std.rust",
 				"meta.attribute.rust"
 			],
 			"settings": {
@@ -314,10 +336,20 @@
 				"entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
 			],
 			"settings": {
-				"foreground": "#d4fcae"
+				"foreground": "#a5fd79"
+			}
+		},
+		{
+			"name": "Rust Lifetimes",
+			"scope": [
+				"entity.name.lifetime.rust",
+				"storage.modifier.lifetime.rust"
+			],
+			"settings": {
+				"foreground": "#a5fd79",
 			}
 		},
 		{
