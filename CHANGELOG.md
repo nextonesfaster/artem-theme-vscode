@@ -2,6 +2,10 @@
 
 All notable changes to the "artem" extension will be documented in this file.
 
+## 1.1.0
+
+- Various QoL improvements  
+
 ## 1.0.5
 
 - Fix bug related to string quotes highlight  
